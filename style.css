@@ -1,0 +1,164 @@
+#wrapper{
+    width: 780px;
+    height: 410px;
+    background-color: rgb(238, 238, 238);
+    display: inline-block;
+}
+#left{
+    height: 320px;
+    width: 120px;
+    display: inline-block;
+    padding: 1px;
+    vertical-align: top;
+}
+.blue{
+    height: 33px;
+    width: 33px;
+    background-color: rgb(104, 155, 250);
+    color: rgb(94, 101, 87);
+    margin: 0px;
+    font-size: 5px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid rgb(30, 30, 30);
+    vertical-align: top;
+}
+#red{
+    height: 32px;
+    width: 25px;
+    color: red;
+    font-size: 11px;
+    margin: 0px;
+    padding: 5px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+.red{
+    height: 15px;
+    width: 15px;
+    color: red;
+    font-size: 11px;
+    margin: 0px;
+    margin-top: 3px;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+.names{
+    display: block;
+    font-size: 15px;
+    margin: 1px auto 1px auto;
+    text-align: center;
+    color: rgb(27, 32, 162);
+    
+}
+#blank{
+    height: 30px;
+    width: 35px;
+    margin: 1px;
+    display: inline-block;
+}
+#right{
+    height: 320px;
+    width: 652px;
+    display: inline-block;
+    padding: 1px;
+    vertical-align: top;
+}
+.yellow{
+    height: 33px;
+    width: 33px;
+    background-color: rgb(248, 203, 56);
+    color: rgb(94, 101, 87);
+    margin: 0px;
+    margin-top: 1px;
+    font-size: 5px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid rgb(30, 30, 30);
+    vertical-align: top;
+}
+.redbox{
+    height: 33px;
+    width: 33px;
+    background-color: rgb(242, 153, 152);
+    color: rgb(27, 32, 162);
+    margin: 0px;
+    margin-bottom: 2px;
+    margin-top: 1px;
+    font-size: 5px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid rgb(30, 30, 30);
+    vertical-align: top;
+}
+#bigblank1{
+    height: 33px;
+    width: 579px;
+    margin: 1px;
+    display: inline-block;
+}
+.bigblank2{
+    height: 33px;
+    width: 384px;
+    margin: 1px;
+    display: inline-block;
+}
+#bottom{
+    height: 78px;
+    width: 770px;
+    display: inline-block;
+    padding: 1px;
+    vertical-align: top;
+}
+#bottomred1{
+    height: 33px;
+    width: 93px;
+    display: inline-block;
+    font-size: 12px;
+    color: red;
+    margin: 0px;
+    margin-left: 22px;
+}
+#bottomred2{
+    height: 33px;
+    width: 77px;
+    display: inline-block;
+    font-size: 12px;
+    color: red;
+    margin: 0px;
+    margin-left: 22px;
+}
+
+.green{
+    height: 33px;
+    width: 33px;
+    background-color: rgb(89, 203, 41);
+    color: rgb(27, 32, 162);
+    margin: 0px;
+    margin-bottom: 2px;
+    margin-top: 1px;
+    font-size: 5px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid rgb(30, 30, 30);
+    vertical-align: top;
+}
+#star1{
+    margin-left: 1px;
+    display: inline-block;
+    font-size: 12px;
+    color: red;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#star2{
+    margin-left: 11px;
+    display: inline-block;
+    font-size: 12px;
+    color: red;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
